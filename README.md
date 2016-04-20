@@ -1,5 +1,5 @@
 # Elemental
-An Bot For Creating Polls In Groups By [ArashEmpix](https://telegram.me/ArashEmpix)
+An Bot For Creating Polls In Groups By mt
 
 An Bot Written In Php Based On Kolar
 
@@ -31,7 +31,7 @@ php ./Elemental.php
 
 **Thanks To**
 
-#Ashkan Pho3nix
+
 
 More Information In Thanks.txt
 
